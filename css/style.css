@@ -16,3 +16,10 @@ header a {
   text-decoration: none;
   text-transform: uppercase;
 }
+/*section*/
+.section_titel {
+  text-transform: uppercase;
+}
+#portfolio {
+  background-color: #eeeeee;
+}
