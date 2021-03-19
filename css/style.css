@@ -23,3 +23,6 @@ header a {
 header > a {
   text-transform: lowercase;
 }
+header ul + a {
+  margin-right: 15px;
+}
