@@ -16,13 +16,42 @@ header a {
   text-decoration: none;
   text-transform: uppercase;
 }
-/*section*/
-.section_titel {
-  text-transform: uppercase;
-}
 header > a {
   text-transform: lowercase;
 }
 header ul + a {
   margin-left: 15px;
+}
+input[type="button"] {
+  text-transform: uppercase;
+  padding: 5px 10px;
+}
+.portfolio img {
+  transition: 0.5s;
+}
+.portfolio img:hover {
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+main,
+header ul {
+  width: 800px;
+  margin: auto;
+}
+header ul {
+  width: 800px;
+  margin: auto;
+}
+.section_titel {
+  text-transform: uppercase;
+}
+.section-inner {
+  display: flex;
+}
+section {
+  padding: 30px 15px 30px 15px;
+}
+.section-inner div {
+  padding: 15px 10px;
 }
