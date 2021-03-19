@@ -20,3 +20,6 @@ header a {
 .section_titel {
   text-transform: uppercase;
 }
+header > a {
+  text-transform: lowercase;
+}
