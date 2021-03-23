@@ -63,7 +63,7 @@ header a:hover {
   transition: 0.5s;
 }
 input[type="button"]:hover {
-  color: #03a9f4;
+  background-color: #03a9f4;
   transition: 0.5s;
 }
 header a {
