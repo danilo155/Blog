@@ -58,3 +58,17 @@ section {
   margin-bottom: 15px;
   margin-top: 15px;
 }
+header a:hover {
+  color: #03a9f4;
+  transition: 0.5s;
+}
+input[type="button"]:hover {
+  color: #03a9f4;
+  transition: 0.5s;
+}
+header a {
+  transition: 0.5s;
+}
+input[type="button"] {
+  transition: 0.5s;
+}
