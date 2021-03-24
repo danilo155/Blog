@@ -61,15 +61,14 @@ section {
 header a:hover {
   color: #03a9f4;
   transition: 0.5s;
- 
-}
 }
 input[type="button"]:hover {
   transition: 0.5s;
   transform: scale(1.2);
 }
 header a {
-  transition: 0.5s;}
-input[type="button"]{
   transition: 0.5s;
-  }
+}
+input[type="button"] {
+  transition: 0.5s;
+}
