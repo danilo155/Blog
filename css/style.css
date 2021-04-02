@@ -72,3 +72,13 @@ header a {
 input[type="button"] {
   transition: 0.5s;
 }
+
+/* Практика */
+body {
+  background-color: #7c8082;
+}
+.box {
+  width: 300px;
+  height: 250px;
+  border: 1px solid #fff;
+}
