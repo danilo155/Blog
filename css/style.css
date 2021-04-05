@@ -112,9 +112,19 @@ body {
   content: "";
   display: block;
   position: absolute;
-  top: 20px;
-  bottom: -20px;
-  left: 20px;
-  right: -20px;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
   background-color: rgba(0, 0, 0, 0.7);
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.box3:hover::before {
+  opacity: 1;
+  transition: 0.5s;
+  top: -20px;
+  bottom: 20px;
+  left: -20px;
+  right: 20px;
 }
