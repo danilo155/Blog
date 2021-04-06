@@ -116,7 +116,7 @@ body {
   bottom: 0px;
   left: 0px;
   right: 0px;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(136, 18, 101, 0.7);
   opacity: 0;
   transition: opacity 0.5s;
 }
