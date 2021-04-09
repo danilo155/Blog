@@ -128,11 +128,3 @@ body {
   left: -20px;
   right: 20px;
 }
-.box4 {
-  width: 1162px;
-  height: 658px;
-  background: url("/img/grass-png-images-pictures-transparent-28.jpg.png") top
-      right(140px 289px) no-repeat,
-    repeat-y #008000 url("/img/pole-zelen-trava-dom-derevya.jpg.jpg") repeat-y
-      100% 0;
-}
