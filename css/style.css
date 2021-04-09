@@ -128,3 +128,6 @@ body {
   left: -20px;
   right: 20px;
 }
+.block h2:first-child {
+  color: blue;
+}
