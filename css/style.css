@@ -131,3 +131,16 @@ body {
 .block h2:first-child {
   color: blue;
 }
+
+div:nth-child(5) {
+  background: cadetblue;
+}
+li:nth-child(odd) {
+  color: #7c8082;
+}
+li:nth-child(even) {
+  color: #03a9f4;
+}
+.text-box p:nth-child(4n + 1) {
+  color: crimson;
+}
